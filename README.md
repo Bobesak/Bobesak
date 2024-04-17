@@ -1,5 +1,5 @@
 ### Retard
-![my ideals](https://ih1.redbubble.net/image.422563141.1376/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg)
+![my ideals](https://i.pinimg.com/736x/e5/88/4d/e5884dfcbc3be77c5337fbd9bc7305f8.jpg)
 
 <!--
 **Bobesak/Bobesak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
