@@ -9,7 +9,7 @@ I'm curious, flexible, and enjoy learning by doing.
 ## 🚀 About Me
 
 - 🎓 IT student with an interest in both frontend and backend development  
-- 💻 Learning: `C#`, `TypeScript`, `HTML`, `CSS`, `Vue.js`, `SCSS`, and `Git`  
+- 💻 Learning: `C#`, `TypeScript`, `HTML`, `CSS`, `Vue.js` 
 - 🧪 Completed a short internship working on integration tests using C#  
 - 🌍 English level: B2 (written and spoken)
 
@@ -17,7 +17,7 @@ I'm curious, flexible, and enjoy learning by doing.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C# (basics), TypeScript, HTML, CSS/SCSS  
+- **Languages:** C# (basics), TypeScript (basics), HTML, CSS/SCSS  
 - **Frameworks:** Vue.js (basics)  
 - **Tools:** Git, GitHub, JetBrains Rider  
 - **Concepts:** Version control, OOP fundamentals, web design basics  
@@ -34,17 +34,3 @@ Future repositories may include:
 - Vue.js frontend components
 
 Stay tuned!
-
----
-
-## 📊 GitHub Stats
-
-<!-- Uncomment and add your username to show GitHub stats -->
-<!--
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
--->
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — Cory House
