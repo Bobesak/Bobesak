@@ -1,18 +1,50 @@
-### Retard
-![my ideals](https://i.pinimg.com/736x/e5/88/4d/e5884dfcbc3be77c5337fbd9bc7305f8.jpg)
-![](https://images-ext-2.discordapp.net/external/JPjFRhU1kjuMbi-XR-tfrCcODfAhermhGBJ-e3z0SZk/https/media.tenor.com/rDfHwTwN1B4AAAPo/apple-wapple.mp4)
+# 👋 Hi there!
 
+I'm a high school student currently studying Information Technology.  
+Aspiring developer focusing on web technologies and backend fundamentals.  
+I'm curious, flexible, and enjoy learning by doing.
+
+---
+
+## 🚀 About Me
+
+- 🎓 IT student with an interest in both frontend and backend development  
+- 💻 Learning: `C#`, `TypeScript`, `HTML`, `CSS`, `Vue.js`, `SCSS`, and `Git`  
+- 🧪 Completed a short internship working on integration tests using C#  
+- 🌍 English level: B2 (written and spoken)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C# (basics), TypeScript, HTML, CSS/SCSS  
+- **Frameworks:** Vue.js (basics)  
+- **Tools:** Git, GitHub, JetBrains Rider  
+- **Concepts:** Version control, OOP fundamentals, web design basics  
+
+---
+
+## 📂 Projects
+
+I'm currently working on small learning projects and exercises.  
+Future repositories may include:
+
+- Mini web apps using HTML/CSS + TypeScript  
+- Basic C# console or backend applications  
+- Vue.js frontend components
+
+Stay tuned!
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Uncomment and add your username to show GitHub stats -->
 <!--
-**Bobesak/Bobesak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
 -->
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — Cory House
